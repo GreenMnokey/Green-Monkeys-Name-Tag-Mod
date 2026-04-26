@@ -1,3 +1,5 @@
+UES THIS MOD AT YOU OWN RISK! Im not responsible for your bans. IYF: Bans are Very unlikely. :3 GREEN MONEKYS!!!
+
 A Gorilla Tag name tag mod that displays the players name, color code, and color palette. (Very clean)
 
 <img width="1920" height="1080" alt="MedalTVGorillaTag20260425165047155" src="https://github.com/user-attachments/assets/b3ead2b8-c355-4193-95de-ee599f362c6b" />
